@@ -27,6 +27,7 @@ module.exports = {
         'no-inner-declarations': ['error'],
         'no-invalid-regexp': ['warn'],
         'no-irregular-whitespace': ['error'],
+        'no-misleading-character-class': ['error'],
         'no-obj-calls': ['error'],
         'no-prototype-builtins': ['off'],
         'no-regex-spaces': ['off'],
@@ -36,12 +37,9 @@ module.exports = {
         'no-unreachable': ['error'],
         'no-unsafe-finally': ['off'],
         'no-unsafe-negation': ['error'],
+        'require-atomic-updates': ['warn'],
+        'require-unicode-regexp': ['off'],
         'use-isnan': ['error'],
-        'valid-jsdoc': ['warn', {
-            'requireReturnDescription': false,
-            'requireParamDescription': false,
-            'requireReturn': false,
-        }],
         'valid-typeof': ['error'],
     },
 };
