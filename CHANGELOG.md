@@ -1,3 +1,8 @@
+2.0.2 / 2019-01-21
+==================
+- Fixed `import/dynamic-import-chunkname` config
+
+
 2.0.1 / 2019-01-21
 ==================
 - Fixed legacy decorators support

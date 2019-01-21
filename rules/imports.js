@@ -30,7 +30,7 @@ module.exports = {
         'import/named': ['warn'],
         'import/default': ['off'],
         'import/dynamic-import-chunkname': ['error', {
-            webpackChunknameFormat: '[a-z0-9-]',
+            webpackChunknameFormat: '[a-z0-9-]*',
         }],
         'import/namespace': ['error'],
         'import/no-restricted-paths': ['warn'],
