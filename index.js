@@ -13,6 +13,7 @@ module.exports = {
         sourceType: 'module',
         ecmaFeatures: {
             experimentalObjectRestSpread: true,
+            legacyDecorators: true,
         },
     },
     rules: {
