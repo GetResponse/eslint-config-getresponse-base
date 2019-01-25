@@ -1,3 +1,8 @@
+2.0.3 / 2019-01-25
+==================
+- Removed deprecated `experimentalObjectRestSpread` option
+
+
 2.0.2 / 2019-01-21
 ==================
 - Fixed `import/dynamic-import-chunkname` config
