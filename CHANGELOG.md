@@ -3,6 +3,7 @@
 - New rule: `no-shadow`
 - Modified rule: `arrow-body-style`
 
+
 2.0.3 / 2019-01-25
 ==================
 - Removed deprecated `experimentalObjectRestSpread` option
