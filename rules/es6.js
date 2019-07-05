@@ -11,7 +11,7 @@ module.exports = {
         },
     },
     rules: {
-        'arrow-body-style': ['warn', 'as-needed', {'requireReturnForObjectLiteral': true}],
+        'arrow-body-style': ['warn', 'as-needed'],
         'arrow-parens': ['off'],
         'arrow-spacing': ['warn'],
         'constructor-super': ['error'],
