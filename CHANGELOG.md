@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.0.0...v3.0.1) (2020-02-28)
+
+
+### Bug Fixes
+
+* remove useless files from published package, add @semantic-release/git plugin ([d1a1efa](https://github.com/getresponse/eslint-config-getresponse-base/commit/d1a1efab8c05a8d67882890411614384d43681ac))
+
 2.1.0 / 2019-07-05
 ==================
 - New rule: `no-shadow`
