@@ -1,3 +1,10 @@
+## [3.1.4](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.3...v3.1.4) (2020-02-28)
+
+
+### Bug Fixes
+
+* **typescript:** use no-untyped-public-signature only for typescript files ([b5b70f5](https://github.com/getresponse/eslint-config-getresponse-base/commit/b5b70f57b4a2417ce4e28239350a244348b1e662))
+
 ## [3.1.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.2...v3.1.3) (2020-02-28)
 
 
