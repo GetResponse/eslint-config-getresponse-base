@@ -1,3 +1,10 @@
+## [3.1.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.2...v3.1.3) (2020-02-28)
+
+
+### Bug Fixes
+
+* **typescript:** use no-for-in-array rule only in typescript files ([9bc13d9](https://github.com/getresponse/eslint-config-getresponse-base/commit/9bc13d907eb3b1ce3f6f9dd1d390be98dd92e391))
+
 ## [3.1.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.1...v3.1.2) (2020-02-28)
 
 
