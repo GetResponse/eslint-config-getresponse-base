@@ -1,4 +1,6 @@
 module.exports = {
+    root: true,
+    parser: 'babel-eslint',
     extends: [
         './rules/best-practices',
         './rules/errors',
@@ -9,7 +11,7 @@ module.exports = {
         './rules/imports',
     ].map(require.resolve),
     parserOptions: {
-        ecmaVersion: 2017,
+        ecmaVersion: 11,
         sourceType: 'module',
         ecmaFeatures: {
             legacyDecorators: true,
@@ -18,4 +20,11 @@ module.exports = {
     rules: {
         strict: ['off'],
     },
+    overrides: [
+        {
+            files: ['**/*.ts?(x)'],
+            parser: '@typescript-eslint/parser',
+            plugins: ['@typescript-eslint'],
+        },
+    ],
 };

@@ -1,6 +1,7 @@
 module.exports = {
     env: {
         node: true,
+        commonjs: true,
     },
     rules: {
         // enforce return after a callback

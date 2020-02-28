@@ -8,7 +8,7 @@
 
 ---
 
-This package contains all of our ESLint rules, including ECMAScript 6+. It requires `eslint` and `eslint-plugin-import`. If you use React, see [eslint-config-getresponse](https://github.com/getresponse/eslint-config-getresponse/).
+This package contains all of our ESLint rules, including ES6 and TypeScript. It requires `eslint`, `typescript`, `eslint-plugin-import` and `@typescript-eslint/eslint-plugin`. If you use React, see [eslint-config-getresponse](https://github.com/getresponse/eslint-config-getresponse/).
 
 1. Install correct versions of each dependant package:
 
@@ -17,5 +17,3 @@ This package contains all of our ESLint rules, including ECMAScript 6+. It requi
    ```
 
 2. Add `"extends": "eslint-config-getresponse-base"` to your ESLint config.
-
-3. If you're using babel be sure to use [babel-eslint](https://github.com/babel/babel-eslint) as your parser.
