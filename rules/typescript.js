@@ -17,9 +17,7 @@ module.exports = {
         '@typescript-eslint/consistent-type-definitions': ['warn'],
         'default-param-last': ['off'],
         '@typescript-eslint/default-param-last': ['error'],
-        '@typescript-eslint/explicit-function-return-type': ['warn', {
-            allowExpressions: true,
-        }],
+        '@typescript-eslint/explicit-function-return-type': ['off'],
         '@typescript-eslint/explicit-member-accessibility': ['off'],
         '@typescript-eslint/explicit-module-boundary-types': ['off'],
         'func-call-spacing': ['off'],
@@ -89,15 +87,26 @@ module.exports = {
         '@typescript-eslint/switch-exhaustiveness-check': ['off'],
         '@typescript-eslint/triple-slash-reference': ['error'],
         '@typescript-eslint/type-annotation-spacing': ['warn'],
-        '@typescript-eslint/typedef': ['warn', {
-            arrayDestructuring: false,
-            arrowParameter: true,
-            memberVariableDeclaration: true,
-            objectDestructuring: false,
-            parameter: true,
-            propertyDeclaration: true,
-            variableDeclaration: true,
-        }],
+        '@typescript-eslint/typedef': ['off'],
         '@typescript-eslint/unified-signatures': ['warn'],
     },
+    overrides: [
+        {
+            files: ['**/*.ts?(x)'],
+            rules: {
+                '@typescript-eslint/explicit-function-return-type': ['warn', {
+                    allowExpressions: true,
+                }],
+                '@typescript-eslint/typedef': ['warn', {
+                    arrayDestructuring: false,
+                    arrowParameter: false,
+                    memberVariableDeclaration: true,
+                    objectDestructuring: false,
+                    parameter: true,
+                    propertyDeclaration: true,
+                    variableDeclaration: false,
+                }],
+            },
+        },
+    ],
 };
