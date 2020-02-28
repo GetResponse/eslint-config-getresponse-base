@@ -9,6 +9,7 @@ module.exports = {
         './rules/variables',
         './rules/es6',
         './rules/imports',
+        './rules/typescript',
     ].map(require.resolve),
     parserOptions: {
         ecmaVersion: 11,
@@ -24,7 +25,6 @@ module.exports = {
         {
             files: ['**/*.ts?(x)'],
             parser: '@typescript-eslint/parser',
-            plugins: ['@typescript-eslint'],
         },
     ],
 };
