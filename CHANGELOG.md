@@ -1,3 +1,10 @@
+## [3.1.5](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.4...v3.1.5) (2020-02-28)
+
+
+### Bug Fixes
+
+* **parser:** set parserOptions for @typescript-eslint/parser ([94626c4](https://github.com/getresponse/eslint-config-getresponse-base/commit/94626c4b43524eb1ee02b511fd5e7b73d57d728d))
+
 ## [3.1.4](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.3...v3.1.4) (2020-02-28)
 
 
