@@ -17,3 +17,4 @@ This package contains all of our ESLint rules, including ES6 and TypeScript. It 
    ```
 
 2. Add `"extends": "eslint-config-getresponse-base"` to your ESLint config.
+
