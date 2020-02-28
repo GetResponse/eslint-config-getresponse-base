@@ -1,3 +1,10 @@
+# [3.1.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.0.2...v3.1.0) (2020-02-28)
+
+
+### Features
+
+* set rules for typescript ([c91efcf](https://github.com/getresponse/eslint-config-getresponse-base/commit/c91efcfb35d35cdd0e182dff21016ece92300eee))
+
 ## [3.0.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.0.1...v3.0.2) (2020-02-28)
 
 
