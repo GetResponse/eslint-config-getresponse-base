@@ -35,7 +35,9 @@ module.exports = {
         'no-implicit-coercion': ['off'],
         'no-implicit-globals': ['off'],
         'no-implied-eval': ['error'],
-        'no-invalid-this': ['error'],
+        // no-invalid-this should be enabled when configurable for class properties
+        // https://github.com/typescript-eslint/typescript-eslint/issues/491
+        'no-invalid-this': ['off'],
         'no-iterator': ['error'],
         'no-labels': ['error'],
         'no-lone-blocks': ['error'],
