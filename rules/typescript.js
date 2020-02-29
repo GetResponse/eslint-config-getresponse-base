@@ -98,7 +98,7 @@ module.exports = {
                     allowCallbacks: 'always',
                     allowConditionalTypes: 'always',
                     allowConstructors: 'always',
-                    allowLiterals: 'in-unions-and-intersections',
+                    allowLiterals: 'always',
                     allowMappedTypes: 'always',
                     allowTupleTypes: 'always',
                 }],
