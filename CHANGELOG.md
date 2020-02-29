@@ -1,3 +1,10 @@
+## [3.1.6](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.5...v3.1.6) (2020-02-29)
+
+
+### Bug Fixes
+
+* **typescript:** disable memberVariableDeclaration for typedef rule ([c47b2d4](https://github.com/getresponse/eslint-config-getresponse-base/commit/c47b2d49621ee887e4b51722990d1613d30e2aa1))
+
 ## [3.1.5](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.4...v3.1.5) (2020-02-28)
 
 
