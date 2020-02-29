@@ -1,3 +1,10 @@
+## [3.1.8](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.7...v3.1.8) (2020-02-29)
+
+
+### Bug Fixes
+
+* **typescript:** update typescript rules ([d1c8a9e](https://github.com/getresponse/eslint-config-getresponse-base/commit/d1c8a9e21a0fe3336d9ef9e265d951a84b33d860))
+
 ## [3.1.7](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.6...v3.1.7) (2020-02-29)
 
 
