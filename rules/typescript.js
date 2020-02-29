@@ -26,7 +26,9 @@ module.exports = {
         '@typescript-eslint/no-dynamic-delete': ['error'],
         'no-empty-function': ['off'],
         '@typescript-eslint/no-empty-function': ['warn'],
-        '@typescript-eslint/no-explicit-any': ['off'],
+        '@typescript-eslint/no-explicit-any': ['warn', {
+            ignoreRestArgs: true,
+        }],
         '@typescript-eslint/no-extra-non-null-assertion': ['off'],
         '@typescript-eslint/no-extra-parens': ['off'],
         'no-extra-semi': ['off'],
