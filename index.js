@@ -30,4 +30,5 @@ module.exports = {
             },
         },
     ],
+    ignorePatterns: ['node_modules/', 'coverage/', 'public/', '**/__snapshots__'],
 };

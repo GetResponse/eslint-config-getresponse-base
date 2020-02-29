@@ -40,7 +40,7 @@ module.exports = {
         '@typescript-eslint/no-non-null-assertion': ['off'],
         '@typescript-eslint/no-parameter-properties': ['off'],
         '@typescript-eslint/no-require-imports': ['error'],
-        '@typescript-eslint/no-this-alias': ['error'],
+        '@typescript-eslint/no-this-alias': ['off'],
         'no-unused-expressions': ['off'],
         '@typescript-eslint/no-unused-expressions': ['warn'],
         '@typescript-eslint/no-unused-vars': ['warn'],
@@ -73,7 +73,7 @@ module.exports = {
                 '@typescript-eslint/ban-ts-ignore': ['error'],
                 '@typescript-eslint/ban-types': ['error'],
                 '@typescript-eslint/consistent-type-assertions': ['error'],
-                '@typescript-eslint/consistent-type-definitions': ['warn'],
+                '@typescript-eslint/consistent-type-definitions': ['off'],
                 '@typescript-eslint/explicit-function-return-type': ['warn', {
                     allowExpressions: true,
                 }],
@@ -97,7 +97,9 @@ module.exports = {
                     allowTupleTypes: 'always',
                 }],
                 '@typescript-eslint/no-unnecessary-boolean-literal-compare': ['warn'],
-                '@typescript-eslint/no-unnecessary-condition': ['warn'],
+                '@typescript-eslint/no-unnecessary-condition': ['warn', {
+                    ignoreRhs: true,
+                }],
                 '@typescript-eslint/no-unnecessary-qualifier': ['error'],
                 '@typescript-eslint/no-unnecessary-type-arguments': ['warn'],
                 '@typescript-eslint/no-unnecessary-type-assertion': ['warn'],
@@ -114,7 +116,7 @@ module.exports = {
                 '@typescript-eslint/promise-function-async': ['error'],
                 '@typescript-eslint/require-await': ['error'],
                 '@typescript-eslint/restrict-plus-operands': ['error', {checkCompoundAssignments: true}],
-                '@typescript-eslint/restrict-template-expressions': ['error', {
+                '@typescript-eslint/restrict-template-expressions': ['off', {
                     allowBoolean: true,
                     allowNullable: true,
                     allowNumber: true,
@@ -131,9 +133,7 @@ module.exports = {
                     propertyDeclaration: true,
                     variableDeclaration: false,
                 }],
-                '@typescript-eslint/unbound-method': ['error', {
-                    ignoreStatic: true,
-                }],
+                '@typescript-eslint/unbound-method': ['off'],
                 '@typescript-eslint/unified-signatures': ['warn'],
             },
         },
