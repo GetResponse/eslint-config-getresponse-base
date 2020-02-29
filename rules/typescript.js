@@ -127,7 +127,7 @@ module.exports = {
                 '@typescript-eslint/typedef': ['warn', {
                     arrayDestructuring: false,
                     arrowParameter: false,
-                    memberVariableDeclaration: true,
+                    memberVariableDeclaration: false,
                     objectDestructuring: false,
                     parameter: true,
                     propertyDeclaration: true,
