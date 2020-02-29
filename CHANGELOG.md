@@ -1,3 +1,10 @@
+## [3.1.10](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.9...v3.1.10) (2020-02-29)
+
+
+### Bug Fixes
+
+* **typescript:** allow literals in no-type-alias rule ([768f203](https://github.com/getresponse/eslint-config-getresponse-base/commit/768f20363c7d5b522d53a265b311f34633744e6a))
+
 ## [3.1.9](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.8...v3.1.9) (2020-02-29)
 
 
