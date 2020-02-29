@@ -1,3 +1,10 @@
+## [3.1.9](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.8...v3.1.9) (2020-02-29)
+
+
+### Bug Fixes
+
+* **typescript:** update no-magic-numbers rule ([2723d3b](https://github.com/getresponse/eslint-config-getresponse-base/commit/2723d3b5ce5b266245e308b4ce419f423fc21a34))
+
 ## [3.1.8](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.7...v3.1.8) (2020-02-29)
 
 
