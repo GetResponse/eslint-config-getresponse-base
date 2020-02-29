@@ -1,3 +1,10 @@
+## [3.1.11](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.10...v3.1.11) (2020-02-29)
+
+
+### Bug Fixes
+
+* update no-explicit-any rule ([40a17ed](https://github.com/getresponse/eslint-config-getresponse-base/commit/40a17edb1294feea79ef7977d492c4d33623338f))
+
 ## [3.1.10](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.9...v3.1.10) (2020-02-29)
 
 
