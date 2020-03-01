@@ -117,7 +117,7 @@ module.exports = {
                 '@typescript-eslint/prefer-for-of': ['warn'],
                 '@typescript-eslint/prefer-includes': ['warn'],
                 '@typescript-eslint/prefer-namespace-keyword': ['error'],
-                '@typescript-eslint/prefer-nullish-coalescing': ['warn'],
+                '@typescript-eslint/prefer-nullish-coalescing': ['off'],
                 '@typescript-eslint/prefer-readonly': ['warn'],
                 '@typescript-eslint/prefer-regexp-exec': ['warn'],
                 '@typescript-eslint/prefer-string-starts-ends-with': ['warn'],
