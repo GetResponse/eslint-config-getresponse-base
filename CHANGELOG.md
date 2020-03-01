@@ -1,3 +1,10 @@
+## [3.1.13](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.12...v3.1.13) (2020-03-01)
+
+
+### Bug Fixes
+
+* drop eslint-plugin-import rules due to bad performance on large projects and poor typescript support ([e780e7e](https://github.com/getresponse/eslint-config-getresponse-base/commit/e780e7ec40a36962e411642f2a10734e375e1bb6))
+
 ## [3.1.12](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.11...v3.1.12) (2020-03-01)
 
 
