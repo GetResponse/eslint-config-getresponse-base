@@ -8,7 +8,6 @@ module.exports = {
         './rules/style',
         './rules/variables',
         './rules/es6',
-        './rules/imports',
         './rules/typescript',
     ].map(require.resolve),
     parserOptions: {
