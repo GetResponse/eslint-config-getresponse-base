@@ -1,3 +1,11 @@
+## [3.1.12](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.11...v3.1.12) (2020-03-01)
+
+
+### Bug Fixes
+
+* **best-practices:** disable no-invalid-this until it's configurable for class properies ([7d0e9c2](https://github.com/getresponse/eslint-config-getresponse-base/commit/7d0e9c2036fcb5cabd65c22f691d0671c5a270c9))
+* **typescript:** disable prefer-nullish-coalescing rule ([5def534](https://github.com/getresponse/eslint-config-getresponse-base/commit/5def53428da954634f221d0e0921b153ca54609d))
+
 ## [3.1.11](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.10...v3.1.11) (2020-02-29)
 
 
