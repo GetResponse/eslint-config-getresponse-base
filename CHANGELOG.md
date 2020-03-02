@@ -1,3 +1,10 @@
+## [3.1.17](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.16...v3.1.17) (2020-03-02)
+
+
+### Bug Fixes
+
+* **typescript:** disable no-unnecessary-condition rule ([963bf36](https://github.com/getresponse/eslint-config-getresponse-base/commit/963bf36618402355f0ea080bf66f11e2067ab8b0))
+
 ## [3.1.16](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.15...v3.1.16) (2020-03-02)
 
 
