@@ -1,3 +1,10 @@
+## [3.1.14](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.13...v3.1.14) (2020-03-02)
+
+
+### Bug Fixes
+
+* **style:** update object-curly-spacing rule ([087bbb0](https://github.com/getresponse/eslint-config-getresponse-base/commit/087bbb07b8c87dac45636359ed6e93116d87c61a))
+
 ## [3.1.13](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.12...v3.1.13) (2020-03-01)
 
 
