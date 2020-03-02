@@ -91,7 +91,9 @@ module.exports = {
                 '@typescript-eslint/no-floating-promises': ['warn'],
                 '@typescript-eslint/no-for-in-array': ['error'],
                 '@typescript-eslint/no-implied-eval': ['error'],
-                '@typescript-eslint/no-inferrable-types': ['warn'],
+                '@typescript-eslint/no-inferrable-types': ['warn', {
+                    ignoreParameters: true,
+                }],
                 '@typescript-eslint/no-misused-promises': ['error'],
                 '@typescript-eslint/no-namespace': ['error'],
                 '@typescript-eslint/no-throw-literal': ['error'],
