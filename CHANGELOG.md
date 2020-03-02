@@ -1,3 +1,11 @@
+## [3.1.15](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.14...v3.1.15) (2020-03-02)
+
+
+### Bug Fixes
+
+* **es6:** disable no-useless-constructor rule ([60a3b42](https://github.com/getresponse/eslint-config-getresponse-base/commit/60a3b4282d96f02dbd74ea01171605573063f2eb))
+* **typescript:** disable no-useless-constructor rule ([75ebcaf](https://github.com/getresponse/eslint-config-getresponse-base/commit/75ebcaf13361d3896813bc5e06a6b062d1d4acfe))
+
 ## [3.1.14](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.13...v3.1.14) (2020-03-02)
 
 
