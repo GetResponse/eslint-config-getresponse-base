@@ -107,7 +107,7 @@ module.exports = {
                     allowTupleTypes: 'always',
                 }],
                 '@typescript-eslint/no-unnecessary-boolean-literal-compare': ['warn'],
-                '@typescript-eslint/no-unnecessary-condition': ['warn', {
+                '@typescript-eslint/no-unnecessary-condition': ['off', {
                     ignoreRhs: true,
                 }],
                 '@typescript-eslint/no-unnecessary-qualifier': ['error'],
