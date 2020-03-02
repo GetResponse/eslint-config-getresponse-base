@@ -25,7 +25,7 @@ module.exports = {
         'no-restricted-imports': ['off'],
         'no-this-before-super': ['error'],
         'no-useless-computed-key': ['off'],
-        'no-useless-constructor': ['error'],
+        'no-useless-constructor': ['off'],
         'no-useless-rename': ['off'],
         'no-var': ['off'],
         'object-shorthand': ['off'],
