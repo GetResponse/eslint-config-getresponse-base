@@ -53,7 +53,7 @@ module.exports = {
         '@typescript-eslint/no-unused-expressions': ['warn'],
         '@typescript-eslint/no-unused-vars': ['warn'],
         '@typescript-eslint/no-use-before-define': ['warn'],
-        '@typescript-eslint/no-useless-constructor': ['warn'],
+        '@typescript-eslint/no-useless-constructor': ['off'],
         '@typescript-eslint/no-var-requires': ['error'],
         '@typescript-eslint/prefer-function-type': ['warn'],
         '@typescript-eslint/prefer-optional-chain': ['warn'],
