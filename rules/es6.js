@@ -31,7 +31,7 @@ module.exports = {
         'object-shorthand': ['off'],
         'prefer-arrow-callback': ['warn'],
         'prefer-const': ['warn'],
-        'prefer-destructuring': ['warn', {'array': false, 'object': true}],
+        'prefer-destructuring': ['warn', { 'array': false, 'object': true }],
         'prefer-numeric-literals': ['off'],
         'prefer-rest-params': ['warn'],
         'prefer-spread': ['warn'],

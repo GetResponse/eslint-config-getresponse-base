@@ -6,7 +6,7 @@ module.exports = {
 
         // Enforces that a return statement is present in property getters
         // http://eslint.org/docs/rules/getter-return
-        'getter-return': ['error', {allowImplicit: true}],
+        'getter-return': ['error', { allowImplicit: true }],
         'no-await-in-loop': ['warn'],
         'no-compare-neg-zero': ['error'],
         'no-cond-assign': ['error'],
@@ -18,7 +18,7 @@ module.exports = {
         'no-dupe-else-if': ['error'],
         'no-dupe-keys': ['error'],
         'no-duplicate-case': ['error'],
-        'no-empty': ['warn', {'allowEmptyCatch': true}],
+        'no-empty': ['warn', { 'allowEmptyCatch': true }],
         'no-empty-character-class': ['warn'],
         'no-ex-assign': ['error'],
         'no-extra-boolean-cast': ['warn'],
@@ -28,7 +28,7 @@ module.exports = {
         'no-import-assign': ['error'],
         'no-inner-declarations': ['error'],
         'no-invalid-regexp': ['warn'],
-        'no-irregular-whitespace': ['warn', {skipStrings: true}],
+        'no-irregular-whitespace': ['warn', { skipStrings: true }],
         'no-misleading-character-class': ['error'],
         'no-obj-calls': ['error'],
         'no-prototype-builtins': ['off'],

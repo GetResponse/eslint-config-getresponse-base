@@ -42,7 +42,7 @@ module.exports = {
         'no-labels': ['error'],
         'no-lone-blocks': ['error'],
         'no-loop-func': ['error'],
-        'no-magic-numbers': ['warn', {'ignore': [-1, 0, 1, 2], 'ignoreArrayIndexes': true}],
+        'no-magic-numbers': ['warn', { 'ignore': [-1, 0, 1, 2], 'ignoreArrayIndexes': true }],
         'no-multi-spaces': ['warn'],
         'no-multi-str': ['off'],
         'no-new': ['off'],
