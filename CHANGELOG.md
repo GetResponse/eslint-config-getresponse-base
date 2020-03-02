@@ -1,3 +1,10 @@
+## [3.1.16](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.15...v3.1.16) (2020-03-02)
+
+
+### Bug Fixes
+
+* **typescript:** ignore parameters in no-inferrable-types rule ([3620833](https://github.com/getresponse/eslint-config-getresponse-base/commit/3620833a84c1b989a4e6230e741a78a674de7ec7))
+
 ## [3.1.15](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.14...v3.1.15) (2020-03-02)
 
 
