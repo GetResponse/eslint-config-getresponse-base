@@ -1,3 +1,11 @@
+## [4.0.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.1...v4.0.2) (2020-03-03)
+
+
+### Bug Fixes
+
+* **jest:** disable no-extraneous-class for tests and mocks ([6bbe0d4](https://github.com/getresponse/eslint-config-getresponse-base/commit/6bbe0d4f582a9a5a76f612675f15665d57b3ec5e))
+* **jest:** fix linting of test files written in typescript ([c572faf](https://github.com/getresponse/eslint-config-getresponse-base/commit/c572faf83699942a3d9f09e2a4f009be2369e923))
+
 ## [4.0.1](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.0...v4.0.1) (2020-03-03)
 
 
