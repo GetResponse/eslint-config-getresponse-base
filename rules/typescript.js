@@ -97,15 +97,7 @@ module.exports = {
                 '@typescript-eslint/no-misused-promises': ['error'],
                 '@typescript-eslint/no-namespace': ['error'],
                 '@typescript-eslint/no-throw-literal': ['error'],
-                '@typescript-eslint/no-type-alias': ['warn', {
-                    allowAliases: 'in-unions-and-intersections',
-                    allowCallbacks: 'always',
-                    allowConditionalTypes: 'always',
-                    allowConstructors: 'always',
-                    allowLiterals: 'always',
-                    allowMappedTypes: 'always',
-                    allowTupleTypes: 'always',
-                }],
+                '@typescript-eslint/no-type-alias': ['off'],
                 '@typescript-eslint/no-unnecessary-boolean-literal-compare': ['warn'],
                 '@typescript-eslint/no-unnecessary-condition': ['off', {
                     ignoreRhs: true,

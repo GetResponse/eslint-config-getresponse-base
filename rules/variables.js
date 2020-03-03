@@ -9,7 +9,7 @@ module.exports = {
         'no-undef': ['warn'],
         'no-undef-init': ['off'],
         'no-undefined': ['off'],
-        'no-unused-vars': ['warn', {ignoreRestSiblings: true}],
+        'no-unused-vars': ['warn', { ignoreRestSiblings: true }],
         'no-use-before-define': ['off'],
     },
 };
