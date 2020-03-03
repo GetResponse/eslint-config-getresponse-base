@@ -1,3 +1,15 @@
+# [4.0.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.18...v4.0.0) (2020-03-03)
+
+
+### Features
+
+* **rules:** add rules for jest ([eaaa790](https://github.com/getresponse/eslint-config-getresponse-base/commit/eaaa79040d4a3d96e91126fed38f32cfe53226d8))
+
+
+### BREAKING CHANGES
+
+* **rules:** eslint-plugin-jest is required as a peer dependency
+
 ## [3.1.18](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.17...v3.1.18) (2020-03-03)
 
 
