@@ -50,21 +50,4 @@ module.exports = {
         'jest/valid-expect-in-promise': ['error'],
         'jest/valid-title': ['warn'],
     },
-    overrides: [
-        {
-            files: ['**/*.test.ts?(x)', '\'**/*.test.js?(x)\''],
-            rules: {
-                '@typescript-eslint/explicit-function-return-type': ['off'],
-                '@typescript-eslint/typedef': ['off'],
-                '@typescript-eslint/no-magic-numbers': ['off'],
-                '@typescript-eslint/no-empty-function': ['off'],
-            },
-        },
-        {
-            files: ['**/__mocks__/**/*'],
-            rules: {
-                'import/no-unused-modules': ['off'],
-            },
-        },
-    ],
 };

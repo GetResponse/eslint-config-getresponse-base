@@ -23,12 +23,25 @@ module.exports = {
     },
     overrides: [
         {
-            files: ['**/*.ts?(x)'],
+            files: ['*.ts', '*.tsx'],
             parser: '@typescript-eslint/parser',
             parserOptions: {
                 project: './tsconfig.json',
             },
         },
+        {
+            files: ['*.test.ts', '*.test.tsx', '**/__mocks__/**/*.ts', '**/__mocks__/**/*.tsx'],
+            rules: {
+                '@typescript-eslint/explicit-function-return-type': ['off'],
+                '@typescript-eslint/typedef': ['off'],
+                '@typescript-eslint/no-magic-numbers': ['off'],
+                '@typescript-eslint/no-empty-function': ['off'],
+            },
+            parser: '@typescript-eslint/parser',
+            parserOptions: {
+                project: './tsconfig.eslint.json',
+            },
+        },
     ],
-    ignorePatterns: ['node_modules/', 'coverage/', 'public/', '**/__snapshots__'],
+    ignorePatterns: ['node_modules/', 'coverage/', 'public/', 'dist/', 'build/', '**/__snapshots__'],
 };
