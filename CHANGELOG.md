@@ -1,3 +1,10 @@
+## [3.1.18](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.17...v3.1.18) (2020-03-03)
+
+
+### Bug Fixes
+
+* **typescript:** disable no-type-alias rule ([9108030](https://github.com/getresponse/eslint-config-getresponse-base/commit/91080305718186177e728ae753726b19dadd5765))
+
 ## [3.1.17](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.16...v3.1.17) (2020-03-02)
 
 
