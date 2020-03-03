@@ -8,7 +8,7 @@
 
 ---
 
-This package contains all of our ESLint rules, including ES6 and TypeScript. It requires `eslint`, `typescript` and `@typescript-eslint/eslint-plugin`. If you use React, see [eslint-config-getresponse](https://github.com/getresponse/eslint-config-getresponse/).
+This package contains all of our ESLint rules, including ES6, TypeScript and Jest. It requires `eslint`, `typescript`, `@typescript-eslint/eslint-plugin` and `eslint-plugin-jest`. If you use React, see [eslint-config-getresponse](https://github.com/getresponse/eslint-config-getresponse/).
 
 1. Install correct versions of each dependant package:
 

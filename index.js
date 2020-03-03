@@ -4,14 +4,15 @@ module.exports = {
     extends: [
         './rules/best-practices',
         './rules/errors',
+        './rules/es6',
+        './rules/jest',
         './rules/node',
         './rules/style',
-        './rules/variables',
-        './rules/es6',
         './rules/typescript',
+        './rules/variables',
     ].map(require.resolve),
     parserOptions: {
-        ecmaVersion: 11,
+        ecmaVersion: 2020,
         sourceType: 'module',
         ecmaFeatures: {
             legacyDecorators: true,
