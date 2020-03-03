@@ -1,5 +1,8 @@
 module.exports = {
     plugins: ['jest'],
+    env: {
+        jest: true,
+    },
     rules: {
         'jest/consistent-test-it': ['error', {
             fn: 'test',
