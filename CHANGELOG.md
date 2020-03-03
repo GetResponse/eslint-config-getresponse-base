@@ -1,3 +1,10 @@
+## [4.0.1](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.0...v4.0.1) (2020-03-03)
+
+
+### Bug Fixes
+
+* **jest:** add jest env to config ([a08e5e4](https://github.com/getresponse/eslint-config-getresponse-base/commit/a08e5e46e3e088699a79477fba3828310c052abb))
+
 # [4.0.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v3.1.18...v4.0.0) (2020-03-03)
 
 
