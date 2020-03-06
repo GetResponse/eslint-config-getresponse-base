@@ -1,3 +1,10 @@
+## [4.0.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.2...v4.0.3) (2020-03-06)
+
+
+### Bug Fixes
+
+* **jest:** disable no-expect-resolves rule ([e217e63](https://github.com/getresponse/eslint-config-getresponse-base/commit/e217e63a69288b57a0b46d5eca50167400e6a0c7))
+
 ## [4.0.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.1...v4.0.2) (2020-03-03)
 
 
