@@ -1,3 +1,11 @@
+## [4.0.4](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.3...v4.0.4) (2020-03-06)
+
+
+### Bug Fixes
+
+* **jest:** disable snapshots and allow only limited inline snapshots ([79646ae](https://github.com/getresponse/eslint-config-getresponse-base/commit/79646ae78765ac234461cc006d952c1fe03e10cc))
+* **typescript:** update no-use-before-define rule, allow functions hoisting ([e85ca2c](https://github.com/getresponse/eslint-config-getresponse-base/commit/e85ca2c5bc62c2da0109caae8af417c475ee8828))
+
 ## [4.0.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.2...v4.0.3) (2020-03-06)
 
 
