@@ -16,7 +16,7 @@ module.exports = {
         'jest/no-commented-out-tests': ['error'],
         'jest/no-disabled-tests': ['warn'],
         'jest/no-duplicate-hooks': ['error'],
-        'jest/no-expect-resolves': ['error'],
+        'jest/no-expect-resolves': ['off'],
         'jest/no-export': ['error'],
         'jest/no-focused-tests': ['warn'],
         'jest/no-hooks': ['off'],
