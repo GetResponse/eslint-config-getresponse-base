@@ -24,7 +24,7 @@ module.exports = {
         'jest/no-if': ['warn'],
         'jest/no-jasmine-globals': ['error'],
         'jest/no-jest-import': ['warn'],
-        'jest/no-large-snapshots': ['off'],
+        'jest/no-large-snapshots': ['warn', { maxSize: 0, inlineMaxSize: 9 }],
         'jest/no-mocks-import': ['error'],
         'jest/no-standalone-expect': ['error'],
         'jest/no-test-callback': ['warn'],
