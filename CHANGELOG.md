@@ -1,3 +1,10 @@
+## [4.0.5](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.4...v4.0.5) (2020-03-09)
+
+
+### Bug Fixes
+
+* update typescript parser ([e7b80ac](https://github.com/getresponse/eslint-config-getresponse-base/commit/e7b80ac0a86a284415647d5a19604d26cc257eed))
+
 ## [4.0.4](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.3...v4.0.4) (2020-03-06)
 
 
