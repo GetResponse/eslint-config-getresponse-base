@@ -33,7 +33,7 @@ module.exports = {
         '@typescript-eslint/no-extra-parens': ['off'],
         'no-extra-semi': ['off'],
         '@typescript-eslint/no-extra-semi': ['warn'],
-        '@typescript-eslint/no-extraneous-class': ['warn'],
+        '@typescript-eslint/no-extraneous-class': ['off'],
         '@typescript-eslint/no-for-in-array': ['off'],
         'no-magic-numbers': ['off'],
         '@typescript-eslint/no-magic-numbers': ['warn', {
