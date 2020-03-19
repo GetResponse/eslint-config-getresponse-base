@@ -1,3 +1,10 @@
+## [4.0.6](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.5...v4.0.6) (2020-03-19)
+
+
+### Bug Fixes
+
+* disable problematic jest and typescript rules ([61fc560](https://github.com/getresponse/eslint-config-getresponse-base/commit/61fc560a6a84ec3a7d5a1dfaebdee2903cf5a74e))
+
 ## [4.0.5](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.4...v4.0.5) (2020-03-09)
 
 
