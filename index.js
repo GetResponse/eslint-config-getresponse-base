@@ -25,9 +25,6 @@ module.exports = {
         {
             files: ['*.ts', '*.tsx'],
             parser: '@typescript-eslint/parser',
-            parserOptions: {
-                project: './tsconfig.json',
-            },
         },
         {
             files: ['*.test.ts', '*.test.tsx', '**/__mocks__/**/*.ts', '**/__mocks__/**/*.tsx'],
@@ -39,9 +36,6 @@ module.exports = {
                 '@typescript-eslint/no-extraneous-class': ['off'],
             },
             parser: '@typescript-eslint/parser',
-            parserOptions: {
-                project: './tsconfig.eslint.json',
-            },
         },
     ],
     ignorePatterns: ['node_modules/', 'coverage/', 'public/', 'dist/', 'build/', '**/__snapshots__'],
