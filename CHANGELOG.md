@@ -1,3 +1,20 @@
+# [5.0.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.6...v5.0.0) (2020-03-23)
+
+
+### Bug Fixes
+
+* **typescript:** update overrides rule for typescript files ([1a0e1b7](https://github.com/getresponse/eslint-config-getresponse-base/commit/1a0e1b7aa276741840a2eff897d5eb6ac7507486))
+
+
+### Features
+
+* **typescript:** remove rules that require parserServices ([07a0e90](https://github.com/getresponse/eslint-config-getresponse-base/commit/07a0e90cc40b68c9e0e2033e27dedee32a5f5c39))
+
+
+### BREAKING CHANGES
+
+* **typescript:** all rules that require parserServices are disabled
+
 ## [4.0.6](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.5...v4.0.6) (2020-03-19)
 
 
