@@ -76,7 +76,7 @@ module.exports = {
     },
     overrides: [
         {
-            files: ['**/*.ts?(x)'],
+            files: ['**/*.ts', '**/*.tsx'],
             rules: {
                 '@typescript-eslint/array-type': ['warn', {
                     default: 'array-simple',
