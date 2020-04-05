@@ -1,3 +1,10 @@
+## [5.0.1](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.0.0...v5.0.1) (2020-04-05)
+
+
+### Bug Fixes
+
+* **typescript:** ignore rest siblings in no-unused-vars rule ([7408498](https://github.com/getresponse/eslint-config-getresponse-base/commit/7408498fcd7d219de6d07a9e661807019acdf99b))
+
 # [5.0.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v4.0.6...v5.0.0) (2020-03-23)
 
 
