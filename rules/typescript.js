@@ -51,7 +51,9 @@ module.exports = {
         '@typescript-eslint/no-this-alias': ['off'],
         'no-unused-expressions': ['off'],
         '@typescript-eslint/no-unused-expressions': ['warn'],
-        '@typescript-eslint/no-unused-vars': ['warn'],
+        '@typescript-eslint/no-unused-vars': ['warn', {
+            ignoreRestSiblings: true,
+        }],
         '@typescript-eslint/no-use-before-define': ['warn', {
             functions: false,
             classes: true,
