@@ -1,3 +1,10 @@
+## [5.0.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.0.1...v5.0.2) (2020-06-04)
+
+
+### Bug Fixes
+
+* update eslint dependencies ([99bc0b0](https://github.com/getresponse/eslint-config-getresponse-base/commit/99bc0b082ea3942814a1e8fbf83edb8db85c9f3c))
+
 ## [5.0.1](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.0.0...v5.0.1) (2020-04-05)
 
 
