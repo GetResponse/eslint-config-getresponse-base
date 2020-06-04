@@ -1,3 +1,10 @@
+## [5.0.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.0.2...v5.0.3) (2020-06-04)
+
+
+### Bug Fixes
+
+* **typescript:** remove outdated rules ([b41e7ad](https://github.com/getresponse/eslint-config-getresponse-base/commit/b41e7adf52202fbcf0dd62af879bc3660b34139e))
+
 ## [5.0.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.0.1...v5.0.2) (2020-06-04)
 
 
