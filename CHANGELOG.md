@@ -1,3 +1,10 @@
+## [5.0.4](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.0.3...v5.0.4) (2020-07-10)
+
+
+### Bug Fixes
+
+* **typescript:** disable duplicated rules ([20fb514](https://github.com/getresponse/eslint-config-getresponse-base/commit/20fb514aef744364a946dc61a4b533efcf99a806))
+
 ## [5.0.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.0.2...v5.0.3) (2020-06-04)
 
 
