@@ -49,6 +49,7 @@ module.exports = {
         '@typescript-eslint/no-this-alias': ['off'],
         'no-unused-expressions': ['off'],
         '@typescript-eslint/no-unused-expressions': ['warn'],
+        'no-unused-vars': ['off'],
         '@typescript-eslint/no-unused-vars': ['warn', {
             ignoreRestSiblings: true,
         }],
@@ -60,7 +61,7 @@ module.exports = {
             typedefs: false,
         }],
         '@typescript-eslint/no-useless-constructor': ['off'],
-        '@typescript-eslint/no-var-requires': ['error'],
+        '@typescript-eslint/no-var-requires': ['off'],
         '@typescript-eslint/prefer-function-type': ['warn'],
         '@typescript-eslint/prefer-optional-chain': ['off'],
         'quotes': ['off'],
