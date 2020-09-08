@@ -1,3 +1,10 @@
+## [5.1.1](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.0...v5.1.1) (2020-09-08)
+
+
+### Bug Fixes
+
+* **typescript:** update no-use-before-define rule ([93e9bb1](https://github.com/getresponse/eslint-config-getresponse-base/commit/93e9bb1f941f43310b0fdaed28dc3fac79e74d97))
+
 # [5.1.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.0.4...v5.1.0) (2020-09-07)
 
 
