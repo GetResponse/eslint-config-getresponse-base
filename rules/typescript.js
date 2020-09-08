@@ -55,7 +55,7 @@ module.exports = {
         }],
         '@typescript-eslint/no-use-before-define': ['warn', {
             functions: false,
-            classes: true,
+            classes: false,
             enums: true,
             variables: true,
             typedefs: false,
