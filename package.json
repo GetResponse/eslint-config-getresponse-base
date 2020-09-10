@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-getresponse-base",
-  "version": "5.1.1",
+  "version": "5.1.2",
   "description": "GetResponse ESLint shareable config",
   "keywords": [
     "config",
