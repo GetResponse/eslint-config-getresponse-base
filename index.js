@@ -15,6 +15,7 @@ module.exports = {
         ecmaVersion: 2020,
         sourceType: 'module',
         ecmaFeatures: {
+            jsx: true,
             legacyDecorators: true,
         },
     },
@@ -25,9 +26,24 @@ module.exports = {
         {
             files: ['*.ts', '*.tsx'],
             parser: '@typescript-eslint/parser',
+            parserOptions: {
+                lib: ['ESNext', 'DOM', 'DOM.Iterable', 'ES6', 'ES7', 'WebWorker', 'ScriptHost'],
+                warnOnUnsupportedTypeScriptVersion: false,
+            },
         },
         {
-            files: ['*.test.ts', '*.test.tsx', '**/__mocks__/**/*.ts', '**/__mocks__/**/*.tsx'],
+            files: [
+                '*.test.ts',
+                '*.test.tsx',
+                '**/__mocks__/**/*.ts',
+                '**/__mocks__/**/*.tsx',
+                '*.spec.ts',
+                '*.spec.tsx',
+                '*.test-e2e.ts',
+                '*.test-e2e.tsx',
+                '*.spec-e2e.ts',
+                '*.spec-e2e.tsx',
+            ],
             rules: {
                 '@typescript-eslint/explicit-function-return-type': ['off'],
                 '@typescript-eslint/typedef': ['off'],
