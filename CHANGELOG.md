@@ -1,3 +1,10 @@
+## [5.1.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.2...v5.1.3) (2020-09-11)
+
+
+### Bug Fixes
+
+* **typescript:** fix no-redeclare and no-shadow rules ([6507401](https://github.com/getresponse/eslint-config-getresponse-base/commit/65074013b14a783891b53263ee2787630166c1cb))
+
 ## [5.1.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.1...v5.1.2) (2020-09-10)
 
 
