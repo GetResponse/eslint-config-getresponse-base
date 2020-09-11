@@ -74,6 +74,10 @@ module.exports = {
         '@typescript-eslint/strict-boolean-expressions': ['off'],
         '@typescript-eslint/switch-exhaustiveness-check': ['off'],
         '@typescript-eslint/typedef': ['off'],
+        'no-redeclare': ['off'],
+        '@typescript-eslint/no-redeclare': ['error'],
+        'no-shadow': ['off'],
+        '@typescript-eslint/no-shadow': ['error'],
     },
     overrides: [
         {
