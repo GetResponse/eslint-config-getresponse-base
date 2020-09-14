@@ -8,8 +8,8 @@ module.exports = {
         './rules/jest',
         './rules/node',
         './rules/style',
-        './rules/typescript',
         './rules/variables',
+        './rules/typescript',
     ].map(require.resolve),
     parserOptions: {
         ecmaVersion: 2020,
