@@ -1,3 +1,10 @@
+## [5.1.5](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.4...v5.1.5) (2020-09-14)
+
+
+### Bug Fixes
+
+* **jest:** allow any in test files ([b74a1d4](https://github.com/getresponse/eslint-config-getresponse-base/commit/b74a1d468eb80a6ce26307a0b2495688d0e91832))
+
 ## [5.1.4](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.3...v5.1.4) (2020-09-14)
 
 
