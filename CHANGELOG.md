@@ -1,3 +1,10 @@
+## [5.1.4](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.3...v5.1.4) (2020-09-14)
+
+
+### Bug Fixes
+
+* **typescript:** fix no-shadow conflict ([06913e2](https://github.com/getresponse/eslint-config-getresponse-base/commit/06913e2c90a87ed2fba16fcb1dd135aca61376b3))
+
 ## [5.1.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.2...v5.1.3) (2020-09-11)
 
 
