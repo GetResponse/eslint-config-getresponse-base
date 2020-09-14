@@ -50,6 +50,7 @@ module.exports = {
                 '@typescript-eslint/no-magic-numbers': ['off'],
                 '@typescript-eslint/no-empty-function': ['off'],
                 '@typescript-eslint/no-extraneous-class': ['off'],
+                '@typescript-eslint/no-explicit-any': ['off'],
             },
             parser: '@typescript-eslint/parser',
         },
