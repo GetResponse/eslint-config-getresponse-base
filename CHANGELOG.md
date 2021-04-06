@@ -1,3 +1,10 @@
+# [5.2.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.6...v5.2.0) (2021-04-06)
+
+
+### Features
+
+* update rules after eslint update ([9c356dc](https://github.com/getresponse/eslint-config-getresponse-base/commit/9c356dc2a778d4c2f0be209a44f65561475475a5))
+
 ## [5.1.6](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.5...v5.1.6) (2021-04-06)
 
 
