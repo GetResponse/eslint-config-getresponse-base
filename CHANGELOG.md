@@ -1,3 +1,10 @@
+## [5.1.6](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.5...v5.1.6) (2021-04-06)
+
+
+### Bug Fixes
+
+* **deps:** update parser for typescript ([e0c4529](https://github.com/getresponse/eslint-config-getresponse-base/commit/e0c452988e3a49105f9392d058cc361cbe8ba8e5))
+
 ## [5.1.5](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.4...v5.1.5) (2020-09-14)
 
 
