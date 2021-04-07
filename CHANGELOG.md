@@ -1,3 +1,10 @@
+## [5.2.1](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.2.0...v5.2.1) (2021-04-07)
+
+
+### Bug Fixes
+
+* **best-practices:** disable default-case-last rule ([6cfa7af](https://github.com/getresponse/eslint-config-getresponse-base/commit/6cfa7afc5efa3f63e7809332e78e12252687f133))
+
 # [5.2.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.1.6...v5.2.0) (2021-04-06)
 
 
