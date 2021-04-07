@@ -8,7 +8,7 @@ module.exports = {
     'consistent-return': ['off'],
     curly: ['warn'],
     'default-case': ['off'],
-    'default-case-last': ['warn'],
+    'default-case-last': ['off'],
     'default-param-last': ['error'],
     'dot-location': ['warn', 'property'],
     'dot-notation': ['off'],
