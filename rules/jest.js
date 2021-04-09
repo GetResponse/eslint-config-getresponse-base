@@ -23,7 +23,7 @@ module.exports = {
     'jest/no-conditional-expect': ['warn'],
     'jest/no-deprecated-functions': ['off'],
     'jest/no-disabled-tests': ['warn'],
-    'jest/no-done-callback': ['warn'],
+    'jest/no-done-callback': ['off'],
     'jest/no-duplicate-hooks': ['error'],
     'jest/no-expect-resolves': ['off'],
     'jest/no-export': ['error'],
