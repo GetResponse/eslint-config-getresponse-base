@@ -1,3 +1,10 @@
+## [5.2.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.2.1...v5.2.2) (2021-04-09)
+
+
+### Bug Fixes
+
+* **jest:** disable jest/no-done-callback rule ([4279a12](https://github.com/getresponse/eslint-config-getresponse-base/commit/4279a12d1e96fb9d97a2c3f5661cc916d6fbcbc7))
+
 ## [5.2.1](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.2.0...v5.2.1) (2021-04-07)
 
 
