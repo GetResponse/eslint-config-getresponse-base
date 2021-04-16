@@ -1,3 +1,10 @@
+## [5.2.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.2.2...v5.2.3) (2021-04-16)
+
+
+### Bug Fixes
+
+* **jest:** turn off deprected rule no-try-expect ([18a0240](https://github.com/getresponse/eslint-config-getresponse-base/commit/18a02408b39e07c8805956a03a9b5ece53d43dc9))
+
 ## [5.2.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.2.1...v5.2.2) (2021-04-09)
 
 
