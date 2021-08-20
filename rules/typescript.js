@@ -115,7 +115,7 @@ module.exports = {
         ],
         '@typescript-eslint/generic-type-naming': ['off'],
         '@typescript-eslint/interface-name-prefix': ['off'],
-        '@typescript-eslint/no-empty-interface': ['warn'],
+        '@typescript-eslint/no-empty-interface': ['off'],
         '@typescript-eslint/no-floating-promises': ['off'],
         '@typescript-eslint/no-for-in-array': ['off'],
         '@typescript-eslint/no-implied-eval': ['off'],
