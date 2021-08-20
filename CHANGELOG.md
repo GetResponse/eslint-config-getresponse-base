@@ -1,3 +1,10 @@
+# [5.3.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.2.3...v5.3.0) (2021-08-20)
+
+
+### Features
+
+* **typescript:** allow empty interfaces ([ad2688e](https://github.com/getresponse/eslint-config-getresponse-base/commit/ad2688ebdea95fca5a50031c29e5ddbf256ccdab))
+
 ## [5.2.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.2.2...v5.2.3) (2021-04-16)
 
 
