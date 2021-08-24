@@ -1,3 +1,10 @@
+# [5.4.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.3.0...v5.4.0) (2021-08-24)
+
+
+### Features
+
+* **style:** enable no-nested-ternary rule ([bb37a7d](https://github.com/getresponse/eslint-config-getresponse-base/commit/bb37a7dacca784dadca79e31523ce45bb704c366))
+
 # [5.3.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.2.3...v5.3.0) (2021-08-20)
 
 
