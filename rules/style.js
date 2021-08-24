@@ -54,7 +54,7 @@ module.exports = {
     'no-multi-assign': ['error'],
     'no-multiple-empty-lines': ['warn', { max: 1 }],
     'no-negated-condition': ['warn'],
-    'no-nested-ternary': ['off'],
+    'no-nested-ternary': ['warn'],
     'no-new-object': ['error'],
     'no-plusplus': ['off'],
     'no-restricted-syntax': ['off'],
