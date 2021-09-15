@@ -176,7 +176,7 @@ module.exports = {
           },
         ],
         '@typescript-eslint/unbound-method': ['off'],
-        '@typescript-eslint/unified-signatures': ['warn'],
+        '@typescript-eslint/unified-signatures': ['off'],
       },
     },
   ],
