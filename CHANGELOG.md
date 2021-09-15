@@ -1,3 +1,10 @@
+## [5.4.1](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.4.0...v5.4.1) (2021-09-15)
+
+
+### Bug Fixes
+
+* disable @typescript-eslint/ban-ts-comment for test files ([d488764](https://github.com/getresponse/eslint-config-getresponse-base/commit/d48876424272cce214ede354cf3c89f874bb5913))
+
 # [5.4.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.3.0...v5.4.0) (2021-08-24)
 
 
