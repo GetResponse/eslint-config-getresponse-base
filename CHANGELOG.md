@@ -1,3 +1,10 @@
+## [5.4.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.4.1...v5.4.2) (2021-09-15)
+
+
+### Bug Fixes
+
+* disable @typescript-eslint/unified-signatures ([a0e5ebd](https://github.com/getresponse/eslint-config-getresponse-base/commit/a0e5ebd15d538d9095ba65e72a9fb331d402791e))
+
 ## [5.4.1](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.4.0...v5.4.1) (2021-09-15)
 
 
