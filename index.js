@@ -51,6 +51,7 @@ module.exports = {
         '@typescript-eslint/no-empty-function': ['off'],
         '@typescript-eslint/no-extraneous-class': ['off'],
         '@typescript-eslint/no-explicit-any': ['off'],
+        '@typescript-eslint/ban-ts-comment': ['off'],
       },
       parser: '@typescript-eslint/parser',
     },
