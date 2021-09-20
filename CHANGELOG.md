@@ -1,3 +1,10 @@
+## [5.4.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.4.2...v5.4.3) (2021-09-20)
+
+
+### Bug Fixes
+
+* allow void in statements ([f3d68db](https://github.com/getresponse/eslint-config-getresponse-base/commit/f3d68db9d663d4d0ab9d43f2c6fb3f68e86d45a8))
+
 ## [5.4.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.4.1...v5.4.2) (2021-09-15)
 
 
