@@ -72,7 +72,9 @@ module.exports = {
     'no-useless-concat': ['warn'],
     'no-useless-escape': ['warn'],
     'no-useless-return': ['warn'],
-    'no-void': ['error'],
+    'no-void': ['error', {
+      allowAsStatement: true,
+    }],
     'no-warning-comments': ['off'],
     'no-with': ['error'],
     'prefer-object-spread': ['off'],
