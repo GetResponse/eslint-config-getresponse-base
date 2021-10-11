@@ -1,3 +1,10 @@
+## [5.4.4](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.4.3...v5.4.4) (2021-10-11)
+
+
+### Bug Fixes
+
+* update rules to support eslint-plugin-jest v25 ([6f6e10b](https://github.com/getresponse/eslint-config-getresponse-base/commit/6f6e10b376d62f3ac0f58d4c31c48c326d2a88a7))
+
 ## [5.4.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.4.2...v5.4.3) (2021-09-20)
 
 
