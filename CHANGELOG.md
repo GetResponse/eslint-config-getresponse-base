@@ -1,3 +1,15 @@
+# [6.0.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.4.4...v6.0.0) (2021-10-12)
+
+
+### Bug Fixes
+
+* update eslint to v8 ([666372a](https://github.com/getresponse/eslint-config-getresponse-base/commit/666372a562b3c984598c99dfc1bcfbd4335a1678))
+
+
+### BREAKING CHANGES
+
+* peerDependencies updated to new major versions
+
 ## [5.4.4](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.4.3...v5.4.4) (2021-10-11)
 
 
