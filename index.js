@@ -1,6 +1,5 @@
 module.exports = {
   root: true,
-  parser: 'babel-eslint',
   extends: [
     './rules/best-practices',
     './rules/errors',
