@@ -1,3 +1,10 @@
+## [6.0.1](https://github.com/getresponse/eslint-config-getresponse-base/compare/v6.0.0...v6.0.1) (2021-11-10)
+
+
+### Bug Fixes
+
+* **typescript:** enable allowTernary option for no-unused-expressions rule ([33dc9da](https://github.com/getresponse/eslint-config-getresponse-base/commit/33dc9daa564570f94962f960f327b189b4da28ad))
+
 # [6.0.0](https://github.com/getresponse/eslint-config-getresponse-base/compare/v5.4.4...v6.0.0) (2021-10-12)
 
 
