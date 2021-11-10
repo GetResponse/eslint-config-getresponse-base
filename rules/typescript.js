@@ -54,7 +54,12 @@ module.exports = {
     '@typescript-eslint/no-require-imports': ['error'],
     '@typescript-eslint/no-this-alias': ['off'],
     'no-unused-expressions': ['off'],
-    '@typescript-eslint/no-unused-expressions': ['warn'],
+    '@typescript-eslint/no-unused-expressions': [
+      'warn',
+      {
+        allowTernary: true,
+      },
+    ],
     'no-unused-vars': ['off'],
     '@typescript-eslint/no-unused-vars': [
       'warn',
