@@ -1,3 +1,10 @@
+## [6.0.3](https://github.com/getresponse/eslint-config-getresponse-base/compare/v6.0.2...v6.0.3) (2022-04-13)
+
+
+### Bug Fixes
+
+* drop @typescript-eslint/explicit-function-return-type rule ([bb19f23](https://github.com/getresponse/eslint-config-getresponse-base/commit/bb19f23a2bef9bcc5073b848f872dfafccb84948))
+
 ## [6.0.2](https://github.com/getresponse/eslint-config-getresponse-base/compare/v6.0.1...v6.0.2) (2022-01-03)
 
 
