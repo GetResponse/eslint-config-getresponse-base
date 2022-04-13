@@ -112,12 +112,6 @@ module.exports = {
         '@typescript-eslint/ban-types': ['error'],
         '@typescript-eslint/consistent-type-assertions': ['error'],
         '@typescript-eslint/consistent-type-definitions': ['off'],
-        '@typescript-eslint/explicit-function-return-type': [
-          'warn',
-          {
-            allowExpressions: true,
-          },
-        ],
         '@typescript-eslint/generic-type-naming': ['off'],
         '@typescript-eslint/interface-name-prefix': ['off'],
         '@typescript-eslint/no-empty-interface': ['off'],
