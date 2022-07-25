@@ -1,9 +1,10 @@
+# Deprecated
+The project has merged with [eslint-config-getresponse](https://github.com/GetResponse/eslint-config-getresponse)
+
 # eslint-config-getresponse-base
 
 [![npm version](https://badge.fury.io/js/eslint-config-getresponse-base.svg)](https://badge.fury.io/js/eslint-config-getresponse-base)
 [![Build Status](https://github.com/GetResponse/eslint-config-getresponse-base/actions/workflows/main.yml/badge.svg)](https://github.com/GetResponse/eslint-config-getresponse-base/actions)
-[![Dependencies](https://img.shields.io/david/GetResponse/eslint-config-getresponse-base.svg)](https://david-dm.org/GetResponse/eslint-config-getresponse-base)
-[![peerDependencies Status](https://david-dm.org/GetResponse/eslint-config-getresponse-base/peer-status.svg)](https://david-dm.org/GetResponse/eslint-config-getresponse-base?type=peer)
 [![License](http://img.shields.io/:license-mit-blue.svg)](http://badges.mit-license.org)
 
 ---
